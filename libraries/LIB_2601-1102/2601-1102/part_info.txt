@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2601-1102
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=6.7
+Released=2023-03-09 06:19:16
+Downloaded=2026-09-01 09:05:43
+3D=Y
