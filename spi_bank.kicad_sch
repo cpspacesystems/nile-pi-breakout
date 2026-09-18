@@ -3537,4 +3537,80 @@
 			)
 		)
 	)
+	(sheet
+		(at 73.66 101.6)
+		(size 25.908 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "15327224-e9d8-4c74-b58f-b1f2bc81e9f6")
+		(property "Sheetname" "DVEC_RJ45"
+			(at 73.66 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DVEC_RJ45.kicad_sch"
+			(at 73.66 130.1246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+5V" input
+			(at 99.568 103.886 0)
+			(uuid "e1edaf1a-dc8f-45c2-9cb7-359e1a8c9d8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+12V" input
+			(at 99.568 106.426 0)
+			(uuid "9faa2ce5-9cc4-46db-b05c-b5df90df20e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "-12V" input
+			(at 99.568 110.236 0)
+			(uuid "e92a9878-f861-4e80-9617-a959bc9e9e93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "nile_pi_carrier"
+				(path "/6981b83f-8333-411f-b27d-b24dc08c68e5/42b46ee2-bd48-4aad-88e1-2174419c8a2f"
+					(page "32")
+				)
+			)
+		)
+	)
 )
