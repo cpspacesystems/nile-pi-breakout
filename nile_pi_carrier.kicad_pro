@@ -661,7 +661,7 @@
         "uuid": "6981b83f-8333-411f-b27d-b24dc08c68e5"
       }
     ],
-    "used_designators": "R1-104,J1-21,U1-3,Q1-72,D1-26,#PWR1-87,C1-21,SW1-2,JP1-14,Y1,NT1,F1",
+    "used_designators": "R1-159,J1-36,U1-3,Q1-72,D1-48,#PWR1-193,C1-21,SW1-2,JP1-14,Y1,NT1,F1-25",
     "variants": []
   },
   "sheets": [
@@ -790,12 +790,68 @@
       "SPI Chooser1"
     ],
     [
-      "15327224-e9d8-4c74-b58f-b1f2bc81e9f6",
-      "DVEC_RJ45"
+      "4370192e-539d-466d-9cb5-df0f11dd786d",
+      "DVEC_RJ47"
     ],
     [
-      "15327224-e9d8-4c74-b58f-b1f2bc81e9f6",
-      "DVEC_RJ45"
+      "4370192e-539d-466d-9cb5-df0f11dd786d",
+      "DVEC_RJ47"
+    ],
+    [
+      "f77fd3f0-d0ff-4031-a190-99ca94ce0338",
+      "DVEC_RJ46"
+    ],
+    [
+      "f77fd3f0-d0ff-4031-a190-99ca94ce0338",
+      "DVEC_RJ46"
+    ],
+    [
+      "1e92fbb8-5ca5-4a05-9f46-6463c5425378",
+      "DVEC_RJ48"
+    ],
+    [
+      "1e92fbb8-5ca5-4a05-9f46-6463c5425378",
+      "DVEC_RJ48"
+    ],
+    [
+      "d094dfef-207b-4a1e-8882-826b9e546b53",
+      "DVEC_RJ49"
+    ],
+    [
+      "d094dfef-207b-4a1e-8882-826b9e546b53",
+      "DVEC_RJ49"
+    ],
+    [
+      "fd2a5202-8fa4-49e2-8645-28517fddd996",
+      "DVEC_RJ50"
+    ],
+    [
+      "fd2a5202-8fa4-49e2-8645-28517fddd996",
+      "DVEC_RJ50"
+    ],
+    [
+      "2988ec0c-340b-4df5-8cf9-5c2540157c95",
+      "DVEC_RJ51"
+    ],
+    [
+      "2988ec0c-340b-4df5-8cf9-5c2540157c95",
+      "DVEC_RJ51"
+    ],
+    [
+      "6ff17251-e36a-441d-8cad-c27d30a35f2c",
+      "DVEC_RJ52"
+    ],
+    [
+      "6ff17251-e36a-441d-8cad-c27d30a35f2c",
+      "DVEC_RJ52"
+    ],
+    [
+      "56c85c5a-b7f2-4e7f-92bc-90bfad6893d4",
+      "DVEC_RJ53"
+    ],
+    [
+      "56c85c5a-b7f2-4e7f-92bc-90bfad6893d4",
+      "DVEC_RJ53"
     ]
   ],
   "text_variables": {},
