@@ -6846,7 +6846,7 @@
 		)
 		(uuid "71d91a1a-0386-4ffb-93dc-857c834b1f1b")
 	)
-	(hierarchical_label "I2C0_SDA{slash}GPIO26"
+	(hierarchical_label "I2C0_SDA{slash}LC CS6"
 		(shape input)
 		(at 177.8 118.11 0)
 		(effects
@@ -7022,7 +7022,7 @@
 		)
 		(uuid "d5c6a022-abbe-4c8e-99f2-195266c56c40")
 	)
-	(hierarchical_label "I2C0_SCL{slash}GPIO27"
+	(hierarchical_label "I2C0_SCL{slash}LC CS7"
 		(shape input)
 		(at 177.8 120.65 0)
 		(effects
